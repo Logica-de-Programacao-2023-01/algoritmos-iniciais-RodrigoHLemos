@@ -1,5 +1,5 @@
-1-leia números
+1-leia lista de números
 2-leia Quantidade de números
-3-some os números
-4-faça números/quantidade de números
+4-faça soma de números
+5-faça números/quantidade de números
 
