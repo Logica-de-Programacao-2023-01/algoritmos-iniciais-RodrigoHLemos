@@ -1,5 +1,4 @@
-Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
-
-1- se Tc=x, x/5*9+32=Tf
-2- se Tf=y, (y-32)/9*5=Tc
+1-leia unidades de temperatura 
+2- se Tc=x, x/5*9+32=Tf
+3- senão (x-32)/9*5=Tc
 fim 
