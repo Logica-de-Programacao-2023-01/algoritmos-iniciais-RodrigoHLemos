@@ -1,1 +1,5 @@
-1-enquanto haver T(n)
+1-leia números
+2-leia Quantidade de números
+3-some os números
+4-faça números/quantidade de números
+
